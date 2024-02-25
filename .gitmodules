@@ -1,0 +1,6 @@
+[submodule "iMoisture-Backend"]
+	path = iMoisture-Backend
+	url = https://github.com/March-Madnes/iMoisture-Backend.git
+[submodule "iMoisture-Frontend"]
+	path = iMoisture-Frontend
+	url = https://github.com/March-Madnes/iMoisture-Frontend.git
