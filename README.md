@@ -18,8 +18,9 @@ Using this model as the backbone of our project we then introduce a gamified app
 ### Link to the Source code
 - Frontend   [iMoisture-Frontend](https://github.com/March-Madnes/iMoisture-Frontend)
 - Backend    [iMoisture-Backend](https://github.com/March-Madnes/iMoisture-Backend)
+- Deployed   [vercel-]( - https://hack4tkm-wittycliques.vercel.app/)
 
-> [!Deployed Link - https://hack4tkm-wittycliques.vercel.app/]  
+> [!Deployed Link]
 > This is an mobile centric application so make sure to test it on mobile devices.
 
 > [!CAUTION]
